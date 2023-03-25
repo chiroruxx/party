@@ -1,5 +1,8 @@
 # party
-PHPerKaigi2023のフレーム画像を合成するよ
+PHPerKaigi2023のフレーム画像を合成するよ。  
+forteeがエラーで合成してくれない人も専用Twitterアイコンを設定して一緒に盛り上がろう！！
+
+[PHPerKaigi 2023 専用Twitterアイコンを設定して盛り上がろう！ - PHPerKaigi スタッフブログ](https://blog.phperkaigi.jp/2023/03/21/phperkaigi-2023-twitter-icon/)
 
 # requirements
 `ext-gd` が必要です。
