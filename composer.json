@@ -1,0 +1,9 @@
+{
+    "name": "chiroruxxxx/party",
+    "description": "PHPerKaigiのframeを合成するよ",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "ext-gd": "*"
+    }
+}
